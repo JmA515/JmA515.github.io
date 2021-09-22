@@ -17,6 +17,7 @@ h2 {
     width: 50%;
     padding: 5px;
     margin: auto;
+    margin-bottom: 5em;
     border-width: 10px;
     border: solid;
     color: mediumturquoise;
@@ -29,6 +30,7 @@ h3 {
     width: 30%;
     padding: 5px;
     margin: auto;
+    margin-bottom: 1em;
     border-width: 10px;
     border: solid;
     color: mediumturquoise;
@@ -40,7 +42,8 @@ h4 {
     font-size: 30px;
     width: 15%;
     padding: 5px;
-    margin: 15px 790px;
+    margin: auto;
+    margin-bottom: 1em;
     border: solid;
     color: mediumturquoise;
     background-color: indigo;
@@ -49,11 +52,13 @@ h4 {
 table {
     font-size: 30px;
     margin: auto;
+    margin-bottom: 5em;
     text-align: center;
     padding: 25px;
     background-color: rgb(141, 6, 6);
     width: 50%;
     border: solid;
+    color: rgb(32, 147, 182);
 }
 
 th, td {
@@ -64,6 +69,7 @@ th, td {
 
 p {
     margin: auto;
+    margin-bottom: 5em;
     padding: 15px;
     font-size: 30px;
     text-align: center;
@@ -71,4 +77,14 @@ p {
 
 a {
     color: black;
+}
+
+.nav-style {
+    margin: 0 20%;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    border: solid;
+    color: cadetblue;
+    background-color: rgb(141, 6, 6);
 }
