@@ -1,6 +1,6 @@
 body {
     
-    color: white;
+    color: teal;
     background-color: #03072f;
 }
 
@@ -55,10 +55,10 @@ table {
     margin-bottom: 5em;
     text-align: center;
     padding: 25px;
-    background-color: rgb(141, 6, 6);
+    background-color: indigo;
     width: 50%;
     border: solid;
-    color: rgb(32, 147, 182);
+    color: mediumturquoise;
 }
 
 th, td {
@@ -76,7 +76,7 @@ p {
 }
 
 a {
-    color: black;
+    color: teal;
 }
 
 .nav-style {
@@ -85,6 +85,6 @@ a {
     text-align: center;
     font-size: 30px;
     border: solid;
-    color: cadetblue;
-    background-color: rgb(141, 6, 6);
+    color: teal;
+    background-color: indigo;
 }
